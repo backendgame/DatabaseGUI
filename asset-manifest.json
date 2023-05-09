@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DatabaseGUI/static/css/main.073c9b0a.css",
+    "main.js": "/DatabaseGUI/static/js/main.b6c6429e.js",
+    "static/js/787.c0b6e056.chunk.js": "/DatabaseGUI/static/js/787.c0b6e056.chunk.js",
+    "static/media/logo.svg": "/DatabaseGUI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DatabaseGUI/index.html",
+    "main.073c9b0a.css.map": "/DatabaseGUI/static/css/main.073c9b0a.css.map",
+    "main.b6c6429e.js.map": "/DatabaseGUI/static/js/main.b6c6429e.js.map",
+    "787.c0b6e056.chunk.js.map": "/DatabaseGUI/static/js/787.c0b6e056.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b6c6429e.js"
+  ]
+}
