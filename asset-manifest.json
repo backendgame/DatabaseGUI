@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/DatabaseGUI/static/css/main.073c9b0a.css",
-    "main.js": "/DatabaseGUI/static/js/main.3f71a992.js",
+    "main.css": "/DatabaseGUI/static/css/main.e6c13ad2.css",
+    "main.js": "/DatabaseGUI/static/js/main.fe9cb854.js",
     "static/js/787.c0b6e056.chunk.js": "/DatabaseGUI/static/js/787.c0b6e056.chunk.js",
-    "static/media/logo.svg": "/DatabaseGUI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/DatabaseGUI/index.html",
-    "main.073c9b0a.css.map": "/DatabaseGUI/static/css/main.073c9b0a.css.map",
-    "main.3f71a992.js.map": "/DatabaseGUI/static/js/main.3f71a992.js.map",
+    "main.e6c13ad2.css.map": "/DatabaseGUI/static/css/main.e6c13ad2.css.map",
+    "main.fe9cb854.js.map": "/DatabaseGUI/static/js/main.fe9cb854.js.map",
     "787.c0b6e056.chunk.js.map": "/DatabaseGUI/static/js/787.c0b6e056.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3f71a992.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fe9cb854.js"
   ]
 }
